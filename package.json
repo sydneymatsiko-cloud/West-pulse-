@@ -73,6 +73,6 @@
     "vaul": "^1.1.2",
     "vite": "latest",
     "wouter": "^3.3.5",
-    "zod": "latest",
+    "zod": "latest"
     }
   }
